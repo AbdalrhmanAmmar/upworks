@@ -1,0 +1,23 @@
+h2 {
+    color: #f58548;
+}
+
+span {
+    color: #8a8c8f;
+}
+
+h3 {
+    color: #8a8c8f;
+}
+
+body {
+    padding: 0 10rem;
+}
+
+li {
+    font-weight: bold;
+}
+
+p {
+    font-weight: normal;
+}
